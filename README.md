@@ -4,6 +4,7 @@
 
 * PHP
 * Javascript
+* HTML
 * AJAX
 * Bootstrap
 * Datenbank: MariaDB
