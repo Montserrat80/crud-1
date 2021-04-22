@@ -6,6 +6,7 @@
 * Javascript
 * AJAX
 * Bootstrap
+* Datenbank: MariaDB
 
 ![crud1](https://user-images.githubusercontent.com/81353824/115767506-86205b00-a3a9-11eb-9d90-1ee39805bdaa.png)
 
