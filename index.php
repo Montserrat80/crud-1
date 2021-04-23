@@ -10,6 +10,7 @@
     <script src="./js/default.js" defer></script>
 </head>
 <body onload="benutzerZeigen()">
+<?php $a = "test";?>
   <div id="overlay"></div>
   <div id="newFenster">
     <div id="box-header"></div>
