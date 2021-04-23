@@ -1,6 +1,6 @@
 # crud-1
 
-## Einfaches CRUD-Beispiel. Wartung der in MariaDB gespeicherten Benutzertabelle.
+ Einfaches CRUD-Beispiel. Wartung der in MariaDB gespeicherten Benutzertabelle.
 
 * PHP
 * Javascript
